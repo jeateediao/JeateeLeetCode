@@ -1,10 +1,8 @@
 package 高频;
 
 import com.djt.Asserts;
-import 高频.LRUCache;
 
 public class _146_LRU缓存机制 {
-
 	//哈希表 + 双向链表
 	public static void main(String[] args) {
 		LRUCache cache = new LRUCache(2);	// 缓存容量 2

@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 public class LRUCache {
-
+	
 	private Map<Integer, Node> map;
 	private int capacity;
 	// 虚拟头节点
@@ -16,16 +16,14 @@ public class LRUCache {
 	// 虚拟尾节点
 	private  Node last;
 	
-	
 	public LRUCache(int capacity) {
 		map = new HashMap<>(capacity);
 		first = new Node();
 		last = new Node();
 		first.next = last;
 		last.prev = first;
-				
-		this.capacity = capacity;
 		
+		this.capacity = capacity;
 	}
 	
 	public int get(int key) {
@@ -50,8 +48,8 @@ public class LRUCache {
 			// 添加一对新的key-value
 			if (map.size() == capacity) {
 				// 淘汰最近最少使用的node
-				Node removeNode = map.remove(last.prev.key); // 1.删除Hash表里的key
-				removeNode(removeNode);						 // 2.删除双向链表最后一个node
+				Node lastNode = map.remove(last.prev.key); 	 // 1.删除Hash表里的key
+				removeNode(lastNode);						 // 2.删除双向链表最后一个node
 			}
 			
 			// 1.添加新节点到Hash表
