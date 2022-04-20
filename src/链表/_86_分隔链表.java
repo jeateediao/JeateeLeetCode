@@ -2,6 +2,11 @@ package 链表;
 
 import java.util.List;
 
+// 给你一个链表的头节点 head 和一个特定值 x ，请你对链表进行分隔，使得所有小于x的节点都出现在大于或等于x的节点之前。
+// 你应当保留两个分区中每个节点的初始相对位置
+// 输入：head = [1,4,3,2,5,2], x = 3
+// 输出：[1,2,2,4,3,5]
+
 public class _86_分隔链表 {
     public ListNode partition(ListNode head, int x) {
         if (head == null) {

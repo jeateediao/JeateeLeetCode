@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fbb324-cf5d-4b49-93a3-a60e91abf95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeateeLeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_234_回文链表01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/数组/_88_合并两个有序数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/_88_合并两个有序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_654_最大二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/_155_最小栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/_239_滑动窗口最大值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/链表/_2_两数相加.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_2_两数相加.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/高频/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/高频/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/高频/_146_LRU缓存机制.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/高频/_146_LRU缓存机制.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/链表/_86_分隔链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_86_分隔链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
