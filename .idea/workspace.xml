@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fbb324-cf5d-4b49-93a3-a60e91abf95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/二叉树/_654_最大二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/栈/_155_最小栈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/栈/_239_滑动窗口最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_236_二叉树的最近公共祖先.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/_322_零钱兑换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_142_环形链表2_寻找环起点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_19_删除链表的倒数第N个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_21_合并两个有序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_22_链表中倒数第k个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_23_合并k个升序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/链表/_876_单链表的中点.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/_2_两数相加.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_2_两数相加.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/_86_分隔链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_86_分隔链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/链表/_141_环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_141_环形链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
