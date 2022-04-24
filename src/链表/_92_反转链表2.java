@@ -1,10 +1,19 @@
 package 链表;
 
+import java.util.List;
+
 public class _92_反转链表2 {
-	
+
+	public ListNode reverseList01(ListNode head) {
+
+	}
+
+
 	// 递归反转一个链表
 	public ListNode reverseList(ListNode head) {
-		if (head == null || head.next == null) return head;	
+		if (head == null || head.next == null) {
+			return head;
+		}
 		ListNode last = reverseList(head.next);
 		// head.next成为了尾节点，断开和head的联系
 		head.next.next = head;

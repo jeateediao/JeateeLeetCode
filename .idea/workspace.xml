@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fbb324-cf5d-4b49-93a3-a60e91abf95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/_236_二叉树的最近公共祖先.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/_322_零钱兑换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_142_环形链表2_寻找环起点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_19_删除链表的倒数第N个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_21_合并两个有序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_22_链表中倒数第k个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_23_合并k个升序链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/链表/_876_单链表的中点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_104_二叉树的最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_105_从前序与中序遍历序列构造二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_106_从中序与后序遍历序列构造二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_114_二叉树展开为链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_116_填充每个节点的下一个右侧节点指针.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_124_二叉树中的最大路径和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_515_在每个树行中找最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_543_二叉树的直径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_669_修剪二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_889_根据前序和后序遍历构造二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_BianLi_二叉树遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉树/_GouZao_构造二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/链表/_141_环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_141_环形链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二分查找/_704_二分查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二分查找/_704_二分查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二叉树/_226_翻转二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/_226_翻转二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二叉树/_236_二叉树的最近公共祖先.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/_236_二叉树的最近公共祖先.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二叉树/_654_最大二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/_654_最大二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/链表/_92_反转链表2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/_92_反转链表2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

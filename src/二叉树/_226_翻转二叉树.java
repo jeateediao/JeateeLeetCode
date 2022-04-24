@@ -7,7 +7,9 @@ public class _226_翻转二叉树 {
 
 	// 递归
 	TreeNode invertTreeNode(TreeNode root) {
-		if (root == null) return root;
+		if (root == null) {
+			return root;
+		}
 		
 		TreeNode tmpNode = root.left;
 		root.left = root.right;
