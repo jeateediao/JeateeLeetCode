@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73fbb324-cf5d-4b49-93a3-a60e91abf95b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/_230_二叉搜索树中第K小的元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/_450_删除二叉搜索树中的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/_538_把二叉搜索树转换为累加树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/_98_验证二叉搜索树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/_297_二叉树的序列化与反序列化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/_652_寻找重复的子树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/_GuiBing_归并排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/排序/_KuaiPai_快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/_700_二叉搜索树中的搜索.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二叉搜索树/_96_不同的二叉搜索树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/_303_区域和检索数组不可变.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/_304_二维区域和检索_矩阵不可变.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/_560_和为K的子数组.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/二叉树/_105_从前序与中序遍历序列构造二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/_105_从前序与中序遍历序列构造二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/二叉树/_106_从中序与后序遍历序列构造二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/_106_从中序与后序遍历序列构造二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/二叉树/_654_最大二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/_654_最大二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二叉搜索树/_538_把二叉搜索树转换为累加树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉搜索树/_538_把二叉搜索树转换为累加树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

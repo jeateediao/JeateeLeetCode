@@ -24,6 +24,4 @@ public class _538_把二叉搜索树转换为累加树 {
         root.val = sum;
         traverse(root.left);
     }
-
-
 }
